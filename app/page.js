@@ -38,7 +38,14 @@ export default function Home() {
       <li>
           <Link href="\week-8">Demo link</Link>
       </li>
-      
+      <p>Week 9 Repo is below v</p>
+      <li>
+          <Link href="\week-9">Demo link</Link>
+      </li>
+      <p>Week 10 Repo is below v</p>
+      <li>
+          <Link href="\week-10">Demo link</Link>
+      </li>
       
   </div>
   );
